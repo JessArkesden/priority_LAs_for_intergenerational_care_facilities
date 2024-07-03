@@ -1,0 +1,1369 @@
+Upper tier local authorities Code,Upper tier local authorities,Age (9 categories) Code,Age (9 categories),Observation
+E06000001,Hartlepool,1,Aged 4 years and under,4982
+E06000001,Hartlepool,2,Aged 5 to 9 years,5582
+E06000001,Hartlepool,3,Aged 10 to 15 years,7089
+E06000001,Hartlepool,4,Aged 16 to 24 years,9122
+E06000001,Hartlepool,5,Aged 25 to 34 years,11379
+E06000001,Hartlepool,6,Aged 35 to 49 years,15945
+E06000001,Hartlepool,7,Aged 50 to 64 years,20007
+E06000001,Hartlepool,8,Aged 65 to 74 years,10331
+E06000001,Hartlepool,9,Aged 75 years and over,7902
+E06000002,Middlesbrough,1,Aged 4 years and under,8928
+E06000002,Middlesbrough,2,Aged 5 to 9 years,9795
+E06000002,Middlesbrough,3,Aged 10 to 15 years,11263
+E06000002,Middlesbrough,4,Aged 16 to 24 years,16944
+E06000002,Middlesbrough,5,Aged 25 to 34 years,20642
+E06000002,Middlesbrough,6,Aged 35 to 49 years,25349
+E06000002,Middlesbrough,7,Aged 50 to 64 years,26825
+E06000002,Middlesbrough,8,Aged 65 to 74 years,13670
+E06000002,Middlesbrough,9,Aged 75 years and over,10508
+E06000003,Redcar and Cleveland,1,Aged 4 years and under,6814
+E06000003,Redcar and Cleveland,2,Aged 5 to 9 years,7874
+E06000003,Redcar and Cleveland,3,Aged 10 to 15 years,9501
+E06000003,Redcar and Cleveland,4,Aged 16 to 24 years,12191
+E06000003,Redcar and Cleveland,5,Aged 25 to 34 years,15370
+E06000003,Redcar and Cleveland,6,Aged 35 to 49 years,22804
+E06000003,Redcar and Cleveland,7,Aged 50 to 64 years,30230
+E06000003,Redcar and Cleveland,8,Aged 65 to 74 years,17172
+E06000003,Redcar and Cleveland,9,Aged 75 years and over,14575
+E06000004,Stockton-on-Tees,1,Aged 4 years and under,10733
+E06000004,Stockton-on-Tees,2,Aged 5 to 9 years,12429
+E06000004,Stockton-on-Tees,3,Aged 10 to 15 years,15423
+E06000004,Stockton-on-Tees,4,Aged 16 to 24 years,17904
+E06000004,Stockton-on-Tees,5,Aged 25 to 34 years,25052
+E06000004,Stockton-on-Tees,6,Aged 35 to 49 years,37193
+E06000004,Stockton-on-Tees,7,Aged 50 to 64 years,40676
+E06000004,Stockton-on-Tees,8,Aged 65 to 74 years,21046
+E06000004,Stockton-on-Tees,9,Aged 75 years and over,16138
+E06000005,Darlington,1,Aged 4 years and under,5496
+E06000005,Darlington,2,Aged 5 to 9 years,6330
+E06000005,Darlington,3,Aged 10 to 15 years,7869
+E06000005,Darlington,4,Aged 16 to 24 years,9968
+E06000005,Darlington,5,Aged 25 to 34 years,13347
+E06000005,Darlington,6,Aged 35 to 49 years,20122
+E06000005,Darlington,7,Aged 50 to 64 years,22629
+E06000005,Darlington,8,Aged 65 to 74 years,11938
+E06000005,Darlington,9,Aged 75 years and over,10102
+E06000006,Halton,1,Aged 4 years and under,6954
+E06000006,Halton,2,Aged 5 to 9 years,7894
+E06000006,Halton,3,Aged 10 to 15 years,9682
+E06000006,Halton,4,Aged 16 to 24 years,12235
+E06000006,Halton,5,Aged 25 to 34 years,16478
+E06000006,Halton,6,Aged 35 to 49 years,24861
+E06000006,Halton,7,Aged 50 to 64 years,26415
+E06000006,Halton,8,Aged 65 to 74 years,14358
+E06000006,Halton,9,Aged 75 years and over,9601
+E06000007,Warrington,1,Aged 4 years and under,10631
+E06000007,Warrington,2,Aged 5 to 9 years,12363
+E06000007,Warrington,3,Aged 10 to 15 years,15262
+E06000007,Warrington,4,Aged 16 to 24 years,19186
+E06000007,Warrington,5,Aged 25 to 34 years,26439
+E06000007,Warrington,6,Aged 35 to 49 years,42175
+E06000007,Warrington,7,Aged 50 to 64 years,44759
+E06000007,Warrington,8,Aged 65 to 74 years,21442
+E06000007,Warrington,9,Aged 75 years and over,18717
+E06000008,Blackburn with Darwen,1,Aged 4 years and under,10056
+E06000008,Blackburn with Darwen,2,Aged 5 to 9 years,11162
+E06000008,Blackburn with Darwen,3,Aged 10 to 15 years,14012
+E06000008,Blackburn with Darwen,4,Aged 16 to 24 years,18029
+E06000008,Blackburn with Darwen,5,Aged 25 to 34 years,20706
+E06000008,Blackburn with Darwen,6,Aged 35 to 49 years,30703
+E06000008,Blackburn with Darwen,7,Aged 50 to 64 years,27666
+E06000008,Blackburn with Darwen,8,Aged 65 to 74 years,12881
+E06000008,Blackburn with Darwen,9,Aged 75 years and over,9520
+E06000009,Blackpool,1,Aged 4 years and under,7360
+E06000009,Blackpool,2,Aged 5 to 9 years,7905
+E06000009,Blackpool,3,Aged 10 to 15 years,9432
+E06000009,Blackpool,4,Aged 16 to 24 years,13268
+E06000009,Blackpool,5,Aged 25 to 34 years,18071
+E06000009,Blackpool,6,Aged 35 to 49 years,24859
+E06000009,Blackpool,7,Aged 50 to 64 years,30950
+E06000009,Blackpool,8,Aged 65 to 74 years,15541
+E06000009,Blackpool,9,Aged 75 years and over,13650
+E06000010,Kingston upon Hull,1,Aged 4 years and under,15954
+E06000010,Kingston upon Hull,2,Aged 5 to 9 years,17343
+E06000010,Kingston upon Hull,3,Aged 10 to 15 years,19840
+E06000010,Kingston upon Hull,4,Aged 16 to 24 years,31806
+E06000010,Kingston upon Hull,5,Aged 25 to 34 years,41038
+E06000010,Kingston upon Hull,6,Aged 35 to 49 years,50813
+E06000010,Kingston upon Hull,7,Aged 50 to 64 years,49396
+E06000010,Kingston upon Hull,8,Aged 65 to 74 years,23602
+E06000010,Kingston upon Hull,9,Aged 75 years and over,17222
+E06000011,East Riding of Yorkshire,1,Aged 4 years and under,14687
+E06000011,East Riding of Yorkshire,2,Aged 5 to 9 years,17369
+E06000011,East Riding of Yorkshire,3,Aged 10 to 15 years,22019
+E06000011,East Riding of Yorkshire,4,Aged 16 to 24 years,27598
+E06000011,East Riding of Yorkshire,5,Aged 25 to 34 years,34842
+E06000011,East Riding of Yorkshire,6,Aged 35 to 49 years,57560
+E06000011,East Riding of Yorkshire,7,Aged 50 to 64 years,77647
+E06000011,East Riding of Yorkshire,8,Aged 65 to 74 years,48432
+E06000011,East Riding of Yorkshire,9,Aged 75 years and over,42063
+E06000012,North East Lincolnshire,1,Aged 4 years and under,8455
+E06000012,North East Lincolnshire,2,Aged 5 to 9 years,9516
+E06000012,North East Lincolnshire,3,Aged 10 to 15 years,11473
+E06000012,North East Lincolnshire,4,Aged 16 to 24 years,14471
+E06000012,North East Lincolnshire,5,Aged 25 to 34 years,19727
+E06000012,North East Lincolnshire,6,Aged 35 to 49 years,27390
+E06000012,North East Lincolnshire,7,Aged 50 to 64 years,33098
+E06000012,North East Lincolnshire,8,Aged 65 to 74 years,17605
+E06000012,North East Lincolnshire,9,Aged 75 years and over,15231
+E06000013,North Lincolnshire,1,Aged 4 years and under,8445
+E06000013,North Lincolnshire,2,Aged 5 to 9 years,9648
+E06000013,North Lincolnshire,3,Aged 10 to 15 years,12120
+E06000013,North Lincolnshire,4,Aged 16 to 24 years,15019
+E06000013,North Lincolnshire,5,Aged 25 to 34 years,20309
+E06000013,North Lincolnshire,6,Aged 35 to 49 years,29947
+E06000013,North Lincolnshire,7,Aged 50 to 64 years,36914
+E06000013,North Lincolnshire,8,Aged 65 to 74 years,20251
+E06000013,North Lincolnshire,9,Aged 75 years and over,17027
+E06000014,York,1,Aged 4 years and under,8615
+E06000014,York,2,Aged 5 to 9 years,9902
+E06000014,York,3,Aged 10 to 15 years,12221
+E06000014,York,4,Aged 16 to 24 years,33671
+E06000014,York,5,Aged 25 to 34 years,25845
+E06000014,York,6,Aged 35 to 49 years,36356
+E06000014,York,7,Aged 50 to 64 years,37478
+E06000014,York,8,Aged 65 to 74 years,20265
+E06000014,York,9,Aged 75 years and over,18468
+E06000015,Derby,1,Aged 4 years and under,15220
+E06000015,Derby,2,Aged 5 to 9 years,16899
+E06000015,Derby,3,Aged 10 to 15 years,20055
+E06000015,Derby,4,Aged 16 to 24 years,31802
+E06000015,Derby,5,Aged 25 to 34 years,36734
+E06000015,Derby,6,Aged 35 to 49 years,51143
+E06000015,Derby,7,Aged 50 to 64 years,46726
+E06000015,Derby,8,Aged 65 to 74 years,22435
+E06000015,Derby,9,Aged 75 years and over,20350
+E06000016,Leicester,1,Aged 4 years and under,22302
+E06000016,Leicester,2,Aged 5 to 9 years,24808
+E06000016,Leicester,3,Aged 10 to 15 years,30447
+E06000016,Leicester,4,Aged 16 to 24 years,59619
+E06000016,Leicester,5,Aged 25 to 34 years,54784
+E06000016,Leicester,6,Aged 35 to 49 years,74473
+E06000016,Leicester,7,Aged 50 to 64 years,58637
+E06000016,Leicester,8,Aged 65 to 74 years,25263
+E06000016,Leicester,9,Aged 75 years and over,18238
+E06000017,Rutland,1,Aged 4 years and under,1642
+E06000017,Rutland,2,Aged 5 to 9 years,1972
+E06000017,Rutland,3,Aged 10 to 15 years,3136
+E06000017,Rutland,4,Aged 16 to 24 years,4015
+E06000017,Rutland,5,Aged 25 to 34 years,4320
+E06000017,Rutland,6,Aged 35 to 49 years,7009
+E06000017,Rutland,7,Aged 50 to 64 years,8570
+E06000017,Rutland,8,Aged 65 to 74 years,5332
+E06000017,Rutland,9,Aged 75 years and over,5052
+E06000018,Nottingham,1,Aged 4 years and under,17819
+E06000018,Nottingham,2,Aged 5 to 9 years,19249
+E06000018,Nottingham,3,Aged 10 to 15 years,22240
+E06000018,Nottingham,4,Aged 16 to 24 years,71895
+E06000018,Nottingham,5,Aged 25 to 34 years,48488
+E06000018,Nottingham,6,Aged 35 to 49 years,57156
+E06000018,Nottingham,7,Aged 50 to 64 years,48818
+E06000018,Nottingham,8,Aged 65 to 74 years,20685
+E06000018,Nottingham,9,Aged 75 years and over,17280
+E06000019,Herefordshire,1,Aged 4 years and under,8429
+E06000019,Herefordshire,2,Aged 5 to 9 years,9508
+E06000019,Herefordshire,3,Aged 10 to 15 years,11965
+E06000019,Herefordshire,4,Aged 16 to 24 years,15366
+E06000019,Herefordshire,5,Aged 25 to 34 years,20186
+E06000019,Herefordshire,6,Aged 35 to 49 years,31287
+E06000019,Herefordshire,7,Aged 50 to 64 years,41822
+E06000019,Herefordshire,8,Aged 65 to 74 years,25495
+E06000019,Herefordshire,9,Aged 75 years and over,22977
+E06000020,Telford and Wrekin,1,Aged 4 years and under,10562
+E06000020,Telford and Wrekin,2,Aged 5 to 9 years,11869
+E06000020,Telford and Wrekin,3,Aged 10 to 15 years,14436
+E06000020,Telford and Wrekin,4,Aged 16 to 24 years,19570
+E06000020,Telford and Wrekin,5,Aged 25 to 34 years,24530
+E06000020,Telford and Wrekin,6,Aged 35 to 49 years,35391
+E06000020,Telford and Wrekin,7,Aged 50 to 64 years,36466
+E06000020,Telford and Wrekin,8,Aged 65 to 74 years,18312
+E06000020,Telford and Wrekin,9,Aged 75 years and over,14405
+E06000021,Stoke-on-Trent,1,Aged 4 years and under,15625
+E06000021,Stoke-on-Trent,2,Aged 5 to 9 years,16989
+E06000021,Stoke-on-Trent,3,Aged 10 to 15 years,19855
+E06000021,Stoke-on-Trent,4,Aged 16 to 24 years,29038
+E06000021,Stoke-on-Trent,5,Aged 25 to 34 years,36223
+E06000021,Stoke-on-Trent,6,Aged 35 to 49 years,48701
+E06000021,Stoke-on-Trent,7,Aged 50 to 64 years,47675
+E06000021,Stoke-on-Trent,8,Aged 65 to 74 years,24255
+E06000021,Stoke-on-Trent,9,Aged 75 years and over,20009
+E06000022,Bath and North East Somerset,1,Aged 4 years and under,9019
+E06000022,Bath and North East Somerset,2,Aged 5 to 9 years,10046
+E06000022,Bath and North East Somerset,3,Aged 10 to 15 years,12725
+E06000022,Bath and North East Somerset,4,Aged 16 to 24 years,31243
+E06000022,Bath and North East Somerset,5,Aged 25 to 34 years,23176
+E06000022,Bath and North East Somerset,6,Aged 35 to 49 years,33405
+E06000022,Bath and North East Somerset,7,Aged 50 to 64 years,36273
+E06000022,Bath and North East Somerset,8,Aged 65 to 74 years,19267
+E06000022,Bath and North East Somerset,9,Aged 75 years and over,18255
+E06000023,Bristol,1,Aged 4 years and under,25942
+E06000023,Bristol,2,Aged 5 to 9 years,26764
+E06000023,Bristol,3,Aged 10 to 15 years,30051
+E06000023,Bristol,4,Aged 16 to 24 years,72679
+E06000023,Bristol,5,Aged 25 to 34 years,88256
+E06000023,Bristol,6,Aged 35 to 49 years,96078
+E06000023,Bristol,7,Aged 50 to 64 years,71934
+E06000023,Bristol,8,Aged 65 to 74 years,32870
+E06000023,Bristol,9,Aged 75 years and over,27890
+E06000024,North Somerset,1,Aged 4 years and under,10662
+E06000024,North Somerset,2,Aged 5 to 9 years,12250
+E06000024,North Somerset,3,Aged 10 to 15 years,15251
+E06000024,North Somerset,4,Aged 16 to 24 years,18194
+E06000024,North Somerset,5,Aged 25 to 34 years,23125
+E06000024,North Somerset,6,Aged 35 to 49 years,40612
+E06000024,North Somerset,7,Aged 50 to 64 years,44765
+E06000024,North Somerset,8,Aged 65 to 74 years,26477
+E06000024,North Somerset,9,Aged 75 years and over,25397
+E06000025,South Gloucestershire,1,Aged 4 years and under,16119
+E06000025,South Gloucestershire,2,Aged 5 to 9 years,17128
+E06000025,South Gloucestershire,3,Aged 10 to 15 years,19811
+E06000025,South Gloucestershire,4,Aged 16 to 24 years,31214
+E06000025,South Gloucestershire,5,Aged 25 to 34 years,39885
+E06000025,South Gloucestershire,6,Aged 35 to 49 years,55812
+E06000025,South Gloucestershire,7,Aged 50 to 64 years,56261
+E06000025,South Gloucestershire,8,Aged 65 to 74 years,27568
+E06000025,South Gloucestershire,9,Aged 75 years and over,26626
+E06000026,Plymouth,1,Aged 4 years and under,13205
+E06000026,Plymouth,2,Aged 5 to 9 years,15124
+E06000026,Plymouth,3,Aged 10 to 15 years,17742
+E06000026,Plymouth,4,Aged 16 to 24 years,34384
+E06000026,Plymouth,5,Aged 25 to 34 years,36333
+E06000026,Plymouth,6,Aged 35 to 49 years,48720
+E06000026,Plymouth,7,Aged 50 to 64 years,50217
+E06000026,Plymouth,8,Aged 65 to 74 years,26060
+E06000026,Plymouth,9,Aged 75 years and over,22910
+E06000027,Torbay,1,Aged 4 years and under,6059
+E06000027,Torbay,2,Aged 5 to 9 years,7312
+E06000027,Torbay,3,Aged 10 to 15 years,8921
+E06000027,Torbay,4,Aged 16 to 24 years,11518
+E06000027,Torbay,5,Aged 25 to 34 years,14740
+E06000027,Torbay,6,Aged 35 to 49 years,22738
+E06000027,Torbay,7,Aged 50 to 64 years,30849
+E06000027,Torbay,8,Aged 65 to 74 years,19225
+E06000027,Torbay,9,Aged 75 years and over,17962
+E06000030,Swindon,1,Aged 4 years and under,13626
+E06000030,Swindon,2,Aged 5 to 9 years,15156
+E06000030,Swindon,3,Aged 10 to 15 years,17477
+E06000030,Swindon,4,Aged 16 to 24 years,21598
+E06000030,Swindon,5,Aged 25 to 34 years,32637
+E06000030,Swindon,6,Aged 35 to 49 years,49952
+E06000030,Swindon,7,Aged 50 to 64 years,45896
+E06000030,Swindon,8,Aged 65 to 74 years,20396
+E06000030,Swindon,9,Aged 75 years and over,16673
+E06000031,Peterborough,1,Aged 4 years and under,14163
+E06000031,Peterborough,2,Aged 5 to 9 years,15730
+E06000031,Peterborough,3,Aged 10 to 15 years,18207
+E06000031,Peterborough,4,Aged 16 to 24 years,21515
+E06000031,Peterborough,5,Aged 25 to 34 years,32624
+E06000031,Peterborough,6,Aged 35 to 49 years,46391
+E06000031,Peterborough,7,Aged 50 to 64 years,36454
+E06000031,Peterborough,8,Aged 65 to 74 years,16743
+E06000031,Peterborough,9,Aged 75 years and over,13846
+E06000032,Luton,1,Aged 4 years and under,15960
+E06000032,Luton,2,Aged 5 to 9 years,16731
+E06000032,Luton,3,Aged 10 to 15 years,19873
+E06000032,Luton,4,Aged 16 to 24 years,27526
+E06000032,Luton,5,Aged 25 to 34 years,34371
+E06000032,Luton,6,Aged 35 to 49 years,48267
+E06000032,Luton,7,Aged 50 to 64 years,36168
+E06000032,Luton,8,Aged 65 to 74 years,14156
+E06000032,Luton,9,Aged 75 years and over,12210
+E06000033,Southend-on-Sea,1,Aged 4 years and under,10242
+E06000033,Southend-on-Sea,2,Aged 5 to 9 years,10899
+E06000033,Southend-on-Sea,3,Aged 10 to 15 years,13135
+E06000033,Southend-on-Sea,4,Aged 16 to 24 years,16557
+E06000033,Southend-on-Sea,5,Aged 25 to 34 years,23158
+E06000033,Southend-on-Sea,6,Aged 35 to 49 years,36681
+E06000033,Southend-on-Sea,7,Aged 50 to 64 years,35453
+E06000033,Southend-on-Sea,8,Aged 65 to 74 years,18023
+E06000033,Southend-on-Sea,9,Aged 75 years and over,16538
+E06000034,Thurrock,1,Aged 4 years and under,12261
+E06000034,Thurrock,2,Aged 5 to 9 years,12664
+E06000034,Thurrock,3,Aged 10 to 15 years,14712
+E06000034,Thurrock,4,Aged 16 to 24 years,17676
+E06000034,Thurrock,5,Aged 25 to 34 years,25898
+E06000034,Thurrock,6,Aged 35 to 49 years,37972
+E06000034,Thurrock,7,Aged 50 to 64 years,30963
+E06000034,Thurrock,8,Aged 65 to 74 years,13533
+E06000034,Thurrock,9,Aged 75 years and over,10321
+E06000035,Medway,1,Aged 4 years and under,17308
+E06000035,Medway,2,Aged 5 to 9 years,18336
+E06000035,Medway,3,Aged 10 to 15 years,21372
+E06000035,Medway,4,Aged 16 to 24 years,28812
+E06000035,Medway,5,Aged 25 to 34 years,38709
+E06000035,Medway,6,Aged 35 to 49 years,55597
+E06000035,Medway,7,Aged 50 to 64 years,53585
+E06000035,Medway,8,Aged 65 to 74 years,25935
+E06000035,Medway,9,Aged 75 years and over,20119
+E06000036,Bracknell Forest,1,Aged 4 years and under,7119
+E06000036,Bracknell Forest,2,Aged 5 to 9 years,7859
+E06000036,Bracknell Forest,3,Aged 10 to 15 years,9696
+E06000036,Bracknell Forest,4,Aged 16 to 24 years,11833
+E06000036,Bracknell Forest,5,Aged 25 to 34 years,17514
+E06000036,Bracknell Forest,6,Aged 35 to 49 years,27356
+E06000036,Bracknell Forest,7,Aged 50 to 64 years,24355
+E06000036,Bracknell Forest,8,Aged 65 to 74 years,10554
+E06000036,Bracknell Forest,9,Aged 75 years and over,8321
+E06000037,West Berkshire,1,Aged 4 years and under,8310
+E06000037,West Berkshire,2,Aged 5 to 9 years,9701
+E06000037,West Berkshire,3,Aged 10 to 15 years,12701
+E06000037,West Berkshire,4,Aged 16 to 24 years,14441
+E06000037,West Berkshire,5,Aged 25 to 34 years,18318
+E06000037,West Berkshire,6,Aged 35 to 49 years,32150
+E06000037,West Berkshire,7,Aged 50 to 64 years,34316
+E06000037,West Berkshire,8,Aged 65 to 74 years,17053
+E06000037,West Berkshire,9,Aged 75 years and over,14459
+E06000038,Reading,1,Aged 4 years and under,10238
+E06000038,Reading,2,Aged 5 to 9 years,10486
+E06000038,Reading,3,Aged 10 to 15 years,12140
+E06000038,Reading,4,Aged 16 to 24 years,23783
+E06000038,Reading,5,Aged 25 to 34 years,30212
+E06000038,Reading,6,Aged 35 to 49 years,38723
+E06000038,Reading,7,Aged 50 to 64 years,27664
+E06000038,Reading,8,Aged 65 to 74 years,11146
+E06000038,Reading,9,Aged 75 years and over,9832
+E06000039,Slough,1,Aged 4 years and under,11772
+E06000039,Slough,2,Aged 5 to 9 years,12690
+E06000039,Slough,3,Aged 10 to 15 years,15104
+E06000039,Slough,4,Aged 16 to 24 years,16587
+E06000039,Slough,5,Aged 25 to 34 years,23509
+E06000039,Slough,6,Aged 35 to 49 years,39334
+E06000039,Slough,7,Aged 50 to 64 years,24184
+E06000039,Slough,8,Aged 65 to 74 years,8940
+E06000039,Slough,9,Aged 75 years and over,6380
+E06000040,Windsor and Maidenhead,1,Aged 4 years and under,8021
+E06000040,Windsor and Maidenhead,2,Aged 5 to 9 years,9226
+E06000040,Windsor and Maidenhead,3,Aged 10 to 15 years,12575
+E06000040,Windsor and Maidenhead,4,Aged 16 to 24 years,13658
+E06000040,Windsor and Maidenhead,5,Aged 25 to 34 years,17287
+E06000040,Windsor and Maidenhead,6,Aged 35 to 49 years,33076
+E06000040,Windsor and Maidenhead,7,Aged 50 to 64 years,31333
+E06000040,Windsor and Maidenhead,8,Aged 65 to 74 years,14517
+E06000040,Windsor and Maidenhead,9,Aged 75 years and over,13804
+E06000041,Wokingham,1,Aged 4 years and under,9852
+E06000041,Wokingham,2,Aged 5 to 9 years,12189
+E06000041,Wokingham,3,Aged 10 to 15 years,14640
+E06000041,Wokingham,4,Aged 16 to 24 years,16158
+E06000041,Wokingham,5,Aged 25 to 34 years,20127
+E06000041,Wokingham,6,Aged 35 to 49 years,39670
+E06000041,Wokingham,7,Aged 50 to 64 years,34317
+E06000041,Wokingham,8,Aged 65 to 74 years,15863
+E06000041,Wokingham,9,Aged 75 years and over,14686
+E06000042,Milton Keynes,1,Aged 4 years and under,17733
+E06000042,Milton Keynes,2,Aged 5 to 9 years,20264
+E06000042,Milton Keynes,3,Aged 10 to 15 years,24233
+E06000042,Milton Keynes,4,Aged 16 to 24 years,27725
+E06000042,Milton Keynes,5,Aged 25 to 34 years,41044
+E06000042,Milton Keynes,6,Aged 35 to 49 years,65600
+E06000042,Milton Keynes,7,Aged 50 to 64 years,50876
+E06000042,Milton Keynes,8,Aged 65 to 74 years,23402
+E06000042,Milton Keynes,9,Aged 75 years and over,16184
+E06000043,Brighton and Hove,1,Aged 4 years and under,11751
+E06000043,Brighton and Hove,2,Aged 5 to 9 years,13051
+E06000043,Brighton and Hove,3,Aged 10 to 15 years,16934
+E06000043,Brighton and Hove,4,Aged 16 to 24 years,42928
+E06000043,Brighton and Hove,5,Aged 25 to 34 years,41470
+E06000043,Brighton and Hove,6,Aged 35 to 49 years,59086
+E06000043,Brighton and Hove,7,Aged 50 to 64 years,52908
+E06000043,Brighton and Hove,8,Aged 65 to 74 years,21187
+E06000043,Brighton and Hove,9,Aged 75 years and over,17789
+E06000044,Portsmouth,1,Aged 4 years and under,11280
+E06000044,Portsmouth,2,Aged 5 to 9 years,12127
+E06000044,Portsmouth,3,Aged 10 to 15 years,13776
+E06000044,Portsmouth,4,Aged 16 to 24 years,32415
+E06000044,Portsmouth,5,Aged 25 to 34 years,31325
+E06000044,Portsmouth,6,Aged 35 to 49 years,39621
+E06000044,Portsmouth,7,Aged 50 to 64 years,36669
+E06000044,Portsmouth,8,Aged 65 to 74 years,16547
+E06000044,Portsmouth,9,Aged 75 years and over,14243
+E06000045,Southampton,1,Aged 4 years and under,13796
+E06000045,Southampton,2,Aged 5 to 9 years,14453
+E06000045,Southampton,3,Aged 10 to 15 years,16305
+E06000045,Southampton,4,Aged 16 to 24 years,40421
+E06000045,Southampton,5,Aged 25 to 34 years,40883
+E06000045,Southampton,6,Aged 35 to 49 years,49344
+E06000045,Southampton,7,Aged 50 to 64 years,39470
+E06000045,Southampton,8,Aged 65 to 74 years,18609
+E06000045,Southampton,9,Aged 75 years and over,15641
+E06000046,Isle of Wight,1,Aged 4 years and under,5552
+E06000046,Isle of Wight,2,Aged 5 to 9 years,6863
+E06000046,Isle of Wight,3,Aged 10 to 15 years,8458
+E06000046,Isle of Wight,4,Aged 16 to 24 years,10941
+E06000046,Isle of Wight,5,Aged 25 to 34 years,13917
+E06000046,Isle of Wight,6,Aged 35 to 49 years,21796
+E06000046,Isle of Wight,7,Aged 50 to 64 years,31913
+E06000046,Isle of Wight,8,Aged 65 to 74 years,21683
+E06000046,Isle of Wight,9,Aged 75 years and over,19336
+E06000047,County Durham,1,Aged 4 years and under,24752
+E06000047,County Durham,2,Aged 5 to 9 years,28357
+E06000047,County Durham,3,Aged 10 to 15 years,35001
+E06000047,County Durham,4,Aged 16 to 24 years,58785
+E06000047,County Durham,5,Aged 25 to 34 years,59885
+E06000047,County Durham,6,Aged 35 to 49 years,91436
+E06000047,County Durham,7,Aged 50 to 64 years,112514
+E06000047,County Durham,8,Aged 65 to 74 years,61756
+E06000047,County Durham,9,Aged 75 years and over,49582
+E06000049,Cheshire East,1,Aged 4 years and under,19930
+E06000049,Cheshire East,2,Aged 5 to 9 years,22095
+E06000049,Cheshire East,3,Aged 10 to 15 years,27273
+E06000049,Cheshire East,4,Aged 16 to 24 years,32928
+E06000049,Cheshire East,5,Aged 25 to 34 years,46086
+E06000049,Cheshire East,6,Aged 35 to 49 years,74840
+E06000049,Cheshire East,7,Aged 50 to 64 years,86393
+E06000049,Cheshire East,8,Aged 65 to 74 years,46687
+E06000049,Cheshire East,9,Aged 75 years and over,42540
+E06000050,Cheshire West and Chester,1,Aged 4 years and under,17618
+E06000050,Cheshire West and Chester,2,Aged 5 to 9 years,19846
+E06000050,Cheshire West and Chester,3,Aged 10 to 15 years,24328
+E06000050,Cheshire West and Chester,4,Aged 16 to 24 years,34436
+E06000050,Cheshire West and Chester,5,Aged 25 to 34 years,43703
+E06000050,Cheshire West and Chester,6,Aged 35 to 49 years,66149
+E06000050,Cheshire West and Chester,7,Aged 50 to 64 years,75323
+E06000050,Cheshire West and Chester,8,Aged 65 to 74 years,40381
+E06000050,Cheshire West and Chester,9,Aged 75 years and over,35366
+E06000051,Shropshire,1,Aged 4 years and under,14422
+E06000051,Shropshire,2,Aged 5 to 9 years,16249
+E06000051,Shropshire,3,Aged 10 to 15 years,20689
+E06000051,Shropshire,4,Aged 16 to 24 years,28599
+E06000051,Shropshire,5,Aged 25 to 34 years,34824
+E06000051,Shropshire,6,Aged 35 to 49 years,53925
+E06000051,Shropshire,7,Aged 50 to 64 years,72810
+E06000051,Shropshire,8,Aged 65 to 74 years,42766
+E06000051,Shropshire,9,Aged 75 years and over,39322
+E06000052,Cornwall,1,Aged 4 years and under,25532
+E06000052,Cornwall,2,Aged 5 to 9 years,30256
+E06000052,Cornwall,3,Aged 10 to 15 years,37092
+E06000052,Cornwall,4,Aged 16 to 24 years,51991
+E06000052,Cornwall,5,Aged 25 to 34 years,59998
+E06000052,Cornwall,6,Aged 35 to 49 years,96998
+E06000052,Cornwall,7,Aged 50 to 64 years,124298
+E06000052,Cornwall,8,Aged 65 to 74 years,77789
+E06000052,Cornwall,9,Aged 75 years and over,66350
+E06000053,Isles of Scilly,1,Aged 4 years and under,96
+E06000053,Isles of Scilly,2,Aged 5 to 9 years,107
+E06000053,Isles of Scilly,3,Aged 10 to 15 years,121
+E06000053,Isles of Scilly,4,Aged 16 to 24 years,109
+E06000053,Isles of Scilly,5,Aged 25 to 34 years,215
+E06000053,Isles of Scilly,6,Aged 35 to 49 years,377
+E06000053,Isles of Scilly,7,Aged 50 to 64 years,449
+E06000053,Isles of Scilly,8,Aged 65 to 74 years,277
+E06000053,Isles of Scilly,9,Aged 75 years and over,303
+E06000054,Wiltshire,1,Aged 4 years and under,25629
+E06000054,Wiltshire,2,Aged 5 to 9 years,29544
+E06000054,Wiltshire,3,Aged 10 to 15 years,36046
+E06000054,Wiltshire,4,Aged 16 to 24 years,45843
+E06000054,Wiltshire,5,Aged 25 to 34 years,59523
+E06000054,Wiltshire,6,Aged 35 to 49 years,93589
+E06000054,Wiltshire,7,Aged 50 to 64 years,108635
+E06000054,Wiltshire,8,Aged 65 to 74 years,58700
+E06000054,Wiltshire,9,Aged 75 years and over,52827
+E06000055,Bedford,1,Aged 4 years and under,11163
+E06000055,Bedford,2,Aged 5 to 9 years,11742
+E06000055,Bedford,3,Aged 10 to 15 years,14202
+E06000055,Bedford,4,Aged 16 to 24 years,18087
+E06000055,Bedford,5,Aged 25 to 34 years,25432
+E06000055,Bedford,6,Aged 35 to 49 years,38533
+E06000055,Bedford,7,Aged 50 to 64 years,35042
+E06000055,Bedford,8,Aged 65 to 74 years,16716
+E06000055,Bedford,9,Aged 75 years and over,14308
+E06000056,Central Bedfordshire,1,Aged 4 years and under,17805
+E06000056,Central Bedfordshire,2,Aged 5 to 9 years,18521
+E06000056,Central Bedfordshire,3,Aged 10 to 15 years,21166
+E06000056,Central Bedfordshire,4,Aged 16 to 24 years,25455
+E06000056,Central Bedfordshire,5,Aged 25 to 34 years,39158
+E06000056,Central Bedfordshire,6,Aged 35 to 49 years,59648
+E06000056,Central Bedfordshire,7,Aged 50 to 64 years,59551
+E06000056,Central Bedfordshire,8,Aged 65 to 74 years,29104
+E06000056,Central Bedfordshire,9,Aged 75 years and over,23843
+E06000057,Northumberland,1,Aged 4 years and under,14235
+E06000057,Northumberland,2,Aged 5 to 9 years,16686
+E06000057,Northumberland,3,Aged 10 to 15 years,20800
+E06000057,Northumberland,4,Aged 16 to 24 years,26192
+E06000057,Northumberland,5,Aged 25 to 34 years,32863
+E06000057,Northumberland,6,Aged 35 to 49 years,54497
+E06000057,Northumberland,7,Aged 50 to 64 years,73746
+E06000057,Northumberland,8,Aged 65 to 74 years,45560
+E06000057,Northumberland,9,Aged 75 years and over,35990
+E06000058,"Bournemouth, Christchurch and Poole",1,Aged 4 years and under,18878
+E06000058,"Bournemouth, Christchurch and Poole",2,Aged 5 to 9 years,21212
+E06000058,"Bournemouth, Christchurch and Poole",3,Aged 10 to 15 years,25199
+E06000058,"Bournemouth, Christchurch and Poole",4,Aged 16 to 24 years,45328
+E06000058,"Bournemouth, Christchurch and Poole",5,Aged 25 to 34 years,50005
+E06000058,"Bournemouth, Christchurch and Poole",6,Aged 35 to 49 years,76362
+E06000058,"Bournemouth, Christchurch and Poole",7,Aged 50 to 64 years,76788
+E06000058,"Bournemouth, Christchurch and Poole",8,Aged 65 to 74 years,43414
+E06000058,"Bournemouth, Christchurch and Poole",9,Aged 75 years and over,43010
+E06000059,Dorset,1,Aged 4 years and under,15024
+E06000059,Dorset,2,Aged 5 to 9 years,18162
+E06000059,Dorset,3,Aged 10 to 15 years,24491
+E06000059,Dorset,4,Aged 16 to 24 years,30284
+E06000059,Dorset,5,Aged 25 to 34 years,35084
+E06000059,Dorset,6,Aged 35 to 49 years,58778
+E06000059,Dorset,7,Aged 50 to 64 years,85480
+E06000059,Dorset,8,Aged 65 to 74 years,57434
+E06000059,Dorset,9,Aged 75 years and over,54842
+E06000060,Buckinghamshire,1,Aged 4 years and under,30888
+E06000060,Buckinghamshire,2,Aged 5 to 9 years,35155
+E06000060,Buckinghamshire,3,Aged 10 to 15 years,43640
+E06000060,Buckinghamshire,4,Aged 16 to 24 years,49620
+E06000060,Buckinghamshire,5,Aged 25 to 34 years,64406
+E06000060,Buckinghamshire,6,Aged 35 to 49 years,113069
+E06000060,Buckinghamshire,7,Aged 50 to 64 years,112589
+E06000060,Buckinghamshire,8,Aged 65 to 74 years,53900
+E06000060,Buckinghamshire,9,Aged 75 years and over,49812
+E06000061,North Northamptonshire,1,Aged 4 years and under,20206
+E06000061,North Northamptonshire,2,Aged 5 to 9 years,22459
+E06000061,North Northamptonshire,3,Aged 10 to 15 years,27674
+E06000061,North Northamptonshire,4,Aged 16 to 24 years,33110
+E06000061,North Northamptonshire,5,Aged 25 to 34 years,47230
+E06000061,North Northamptonshire,6,Aged 35 to 49 years,71643
+E06000061,North Northamptonshire,7,Aged 50 to 64 years,71844
+E06000061,North Northamptonshire,8,Aged 65 to 74 years,36409
+E06000061,North Northamptonshire,9,Aged 75 years and over,28948
+E06000062,West Northamptonshire,1,Aged 4 years and under,23965
+E06000062,West Northamptonshire,2,Aged 5 to 9 years,26379
+E06000062,West Northamptonshire,3,Aged 10 to 15 years,31881
+E06000062,West Northamptonshire,4,Aged 16 to 24 years,42986
+E06000062,West Northamptonshire,5,Aged 25 to 34 years,58133
+E06000062,West Northamptonshire,6,Aged 35 to 49 years,87044
+E06000062,West Northamptonshire,7,Aged 50 to 64 years,82663
+E06000062,West Northamptonshire,8,Aged 65 to 74 years,40260
+E06000062,West Northamptonshire,9,Aged 75 years and over,32416
+E08000001,Bolton,1,Aged 4 years and under,18458
+E08000001,Bolton,2,Aged 5 to 9 years,20434
+E08000001,Bolton,3,Aged 10 to 15 years,24782
+E08000001,Bolton,4,Aged 16 to 24 years,30992
+E08000001,Bolton,5,Aged 25 to 34 years,37810
+E08000001,Bolton,6,Aged 35 to 49 years,57221
+E08000001,Bolton,7,Aged 50 to 64 years,55544
+E08000001,Bolton,8,Aged 65 to 74 years,28061
+E08000001,Bolton,9,Aged 75 years and over,22662
+E08000002,Bury,1,Aged 4 years and under,11159
+E08000002,Bury,2,Aged 5 to 9 years,12490
+E08000002,Bury,3,Aged 10 to 15 years,15329
+E08000002,Bury,4,Aged 16 to 24 years,18299
+E08000002,Bury,5,Aged 25 to 34 years,25011
+E08000002,Bury,6,Aged 35 to 49 years,37922
+E08000002,Bury,7,Aged 50 to 64 years,38193
+E08000002,Bury,8,Aged 65 to 74 years,19399
+E08000002,Bury,9,Aged 75 years and over,16050
+E08000003,Manchester,1,Aged 4 years and under,34378
+E08000003,Manchester,2,Aged 5 to 9 years,36561
+E08000003,Manchester,3,Aged 10 to 15 years,43040
+E08000003,Manchester,4,Aged 16 to 24 years,97609
+E08000003,Manchester,5,Aged 25 to 34 years,100582
+E08000003,Manchester,6,Aged 35 to 49 years,108895
+E08000003,Manchester,7,Aged 50 to 64 years,78705
+E08000003,Manchester,8,Aged 65 to 74 years,30299
+E08000003,Manchester,9,Aged 75 years and over,21866
+E08000004,Oldham,1,Aged 4 years and under,16005
+E08000004,Oldham,2,Aged 5 to 9 years,17445
+E08000004,Oldham,3,Aged 10 to 15 years,21603
+E08000004,Oldham,4,Aged 16 to 24 years,26852
+E08000004,Oldham,5,Aged 25 to 34 years,31695
+E08000004,Oldham,6,Aged 35 to 49 years,46133
+E08000004,Oldham,7,Aged 50 to 64 years,43741
+E08000004,Oldham,8,Aged 65 to 74 years,21459
+E08000004,Oldham,9,Aged 75 years and over,17155
+E08000005,Rochdale,1,Aged 4 years and under,14639
+E08000005,Rochdale,2,Aged 5 to 9 years,15475
+E08000005,Rochdale,3,Aged 10 to 15 years,18712
+E08000005,Rochdale,4,Aged 16 to 24 years,22677
+E08000005,Rochdale,5,Aged 25 to 34 years,29993
+E08000005,Rochdale,6,Aged 35 to 49 years,43427
+E08000005,Rochdale,7,Aged 50 to 64 years,41986
+E08000005,Rochdale,8,Aged 65 to 74 years,21189
+E08000005,Rochdale,9,Aged 75 years and over,15678
+E08000006,Salford,1,Aged 4 years and under,17257
+E08000006,Salford,2,Aged 5 to 9 years,16713
+E08000006,Salford,3,Aged 10 to 15 years,19030
+E08000006,Salford,4,Aged 16 to 24 years,35180
+E08000006,Salford,5,Aged 25 to 34 years,50875
+E08000006,Salford,6,Aged 35 to 49 years,51795
+E08000006,Salford,7,Aged 50 to 64 years,43149
+E08000006,Salford,8,Aged 65 to 74 years,19653
+E08000006,Salford,9,Aged 75 years and over,16271
+E08000007,Stockport,1,Aged 4 years and under,16575
+E08000007,Stockport,2,Aged 5 to 9 years,18057
+E08000007,Stockport,3,Aged 10 to 15 years,21214
+E08000007,Stockport,4,Aged 16 to 24 years,24842
+E08000007,Stockport,5,Aged 25 to 34 years,37001
+E08000007,Stockport,6,Aged 35 to 49 years,59088
+E08000007,Stockport,7,Aged 50 to 64 years,58720
+E08000007,Stockport,8,Aged 65 to 74 years,30951
+E08000007,Stockport,9,Aged 75 years and over,28324
+E08000008,Tameside,1,Aged 4 years and under,13666
+E08000008,Tameside,2,Aged 5 to 9 years,14701
+E08000008,Tameside,3,Aged 10 to 15 years,17569
+E08000008,Tameside,4,Aged 16 to 24 years,21662
+E08000008,Tameside,5,Aged 25 to 34 years,31518
+E08000008,Tameside,6,Aged 35 to 49 years,44780
+E08000008,Tameside,7,Aged 50 to 64 years,46660
+E08000008,Tameside,8,Aged 65 to 74 years,22807
+E08000008,Tameside,9,Aged 75 years and over,17710
+E08000009,Trafford,1,Aged 4 years and under,13466
+E08000009,Trafford,2,Aged 5 to 9 years,16009
+E08000009,Trafford,3,Aged 10 to 15 years,19426
+E08000009,Trafford,4,Aged 16 to 24 years,20746
+E08000009,Trafford,5,Aged 25 to 34 years,27469
+E08000009,Trafford,6,Aged 35 to 49 years,51209
+E08000009,Trafford,7,Aged 50 to 64 years,45435
+E08000009,Trafford,8,Aged 65 to 74 years,21488
+E08000009,Trafford,9,Aged 75 years and over,19804
+E08000010,Wigan,1,Aged 4 years and under,17782
+E08000010,Wigan,2,Aged 5 to 9 years,19247
+E08000010,Wigan,3,Aged 10 to 15 years,23607
+E08000010,Wigan,4,Aged 16 to 24 years,30682
+E08000010,Wigan,5,Aged 25 to 34 years,43689
+E08000010,Wigan,6,Aged 35 to 49 years,62754
+E08000010,Wigan,7,Aged 50 to 64 years,67966
+E08000010,Wigan,8,Aged 65 to 74 years,35248
+E08000010,Wigan,9,Aged 75 years and over,28355
+E08000011,Knowsley,1,Aged 4 years and under,9735
+E08000011,Knowsley,2,Aged 5 to 9 years,9489
+E08000011,Knowsley,3,Aged 10 to 15 years,10996
+E08000011,Knowsley,4,Aged 16 to 24 years,15134
+E08000011,Knowsley,5,Aged 25 to 34 years,22306
+E08000011,Knowsley,6,Aged 35 to 49 years,27643
+E08000011,Knowsley,7,Aged 50 to 64 years,32974
+E08000011,Knowsley,8,Aged 65 to 74 years,15112
+E08000011,Knowsley,9,Aged 75 years and over,11130
+E08000012,Liverpool,1,Aged 4 years and under,26372
+E08000012,Liverpool,2,Aged 5 to 9 years,26726
+E08000012,Liverpool,3,Aged 10 to 15 years,29962
+E08000012,Liverpool,4,Aged 16 to 24 years,78465
+E08000012,Liverpool,5,Aged 25 to 34 years,75396
+E08000012,Liverpool,6,Aged 35 to 49 years,87489
+E08000012,Liverpool,7,Aged 50 to 64 years,87356
+E08000012,Liverpool,8,Aged 65 to 74 years,42415
+E08000012,Liverpool,9,Aged 75 years and over,31907
+E08000013,St. Helens,1,Aged 4 years and under,9659
+E08000013,St. Helens,2,Aged 5 to 9 years,10346
+E08000013,St. Helens,3,Aged 10 to 15 years,12672
+E08000013,St. Helens,4,Aged 16 to 24 years,16710
+E08000013,St. Helens,5,Aged 25 to 34 years,23778
+E08000013,St. Helens,6,Aged 35 to 49 years,34231
+E08000013,St. Helens,7,Aged 50 to 64 years,38210
+E08000013,St. Helens,8,Aged 65 to 74 years,20497
+E08000013,St. Helens,9,Aged 75 years and over,17145
+E08000014,Sefton,1,Aged 4 years and under,13508
+E08000014,Sefton,2,Aged 5 to 9 years,15071
+E08000014,Sefton,3,Aged 10 to 15 years,18264
+E08000014,Sefton,4,Aged 16 to 24 years,24562
+E08000014,Sefton,5,Aged 25 to 34 years,32374
+E08000014,Sefton,6,Aged 35 to 49 years,49087
+E08000014,Sefton,7,Aged 50 to 64 years,61604
+E08000014,Sefton,8,Aged 65 to 74 years,33385
+E08000014,Sefton,9,Aged 75 years and over,31378
+E08000015,Wirral,1,Aged 4 years and under,16316
+E08000015,Wirral,2,Aged 5 to 9 years,18798
+E08000015,Wirral,3,Aged 10 to 15 years,22974
+E08000015,Wirral,4,Aged 16 to 24 years,28350
+E08000015,Wirral,5,Aged 25 to 34 years,37622
+E08000015,Wirral,6,Aged 35 to 49 years,57349
+E08000015,Wirral,7,Aged 50 to 64 years,68398
+E08000015,Wirral,8,Aged 65 to 74 years,38022
+E08000015,Wirral,9,Aged 75 years and over,32370
+E08000016,Barnsley,1,Aged 4 years and under,13463
+E08000016,Barnsley,2,Aged 5 to 9 years,14366
+E08000016,Barnsley,3,Aged 10 to 15 years,16953
+E08000016,Barnsley,4,Aged 16 to 24 years,22101
+E08000016,Barnsley,5,Aged 25 to 34 years,32949
+E08000016,Barnsley,6,Aged 35 to 49 years,44857
+E08000016,Barnsley,7,Aged 50 to 64 years,52285
+E08000016,Barnsley,8,Aged 65 to 74 years,26460
+E08000016,Barnsley,9,Aged 75 years and over,21136
+E08000017,Doncaster,1,Aged 4 years and under,16942
+E08000017,Doncaster,2,Aged 5 to 9 years,18119
+E08000017,Doncaster,3,Aged 10 to 15 years,22120
+E08000017,Doncaster,4,Aged 16 to 24 years,28852
+E08000017,Doncaster,5,Aged 25 to 34 years,42041
+E08000017,Doncaster,6,Aged 35 to 49 years,56796
+E08000017,Doncaster,7,Aged 50 to 64 years,63384
+E08000017,Doncaster,8,Aged 65 to 74 years,32859
+E08000017,Doncaster,9,Aged 75 years and over,26993
+E08000018,Rotherham,1,Aged 4 years and under,14645
+E08000018,Rotherham,2,Aged 5 to 9 years,15980
+E08000018,Rotherham,3,Aged 10 to 15 years,19609
+E08000018,Rotherham,4,Aged 16 to 24 years,25501
+E08000018,Rotherham,5,Aged 25 to 34 years,34427
+E08000018,Rotherham,6,Aged 35 to 49 years,48939
+E08000018,Rotherham,7,Aged 50 to 64 years,54478
+E08000018,Rotherham,8,Aged 65 to 74 years,28241
+E08000018,Rotherham,9,Aged 75 years and over,23986
+E08000019,Sheffield,1,Aged 4 years and under,30179
+E08000019,Sheffield,2,Aged 5 to 9 years,32018
+E08000019,Sheffield,3,Aged 10 to 15 years,38076
+E08000019,Sheffield,4,Aged 16 to 24 years,82300
+E08000019,Sheffield,5,Aged 25 to 34 years,79401
+E08000019,Sheffield,6,Aged 35 to 49 years,99415
+E08000019,Sheffield,7,Aged 50 to 64 years,100315
+E08000019,Sheffield,8,Aged 65 to 74 years,49413
+E08000019,Sheffield,9,Aged 75 years and over,45406
+E08000021,Newcastle upon Tyne,1,Aged 4 years and under,15651
+E08000021,Newcastle upon Tyne,2,Aged 5 to 9 years,16704
+E08000021,Newcastle upon Tyne,3,Aged 10 to 15 years,19320
+E08000021,Newcastle upon Tyne,4,Aged 16 to 24 years,57086
+E08000021,Newcastle upon Tyne,5,Aged 25 to 34 years,44636
+E08000021,Newcastle upon Tyne,6,Aged 35 to 49 years,52598
+E08000021,Newcastle upon Tyne,7,Aged 50 to 64 years,49617
+E08000021,Newcastle upon Tyne,8,Aged 65 to 74 years,24463
+E08000021,Newcastle upon Tyne,9,Aged 75 years and over,20052
+E08000022,North Tyneside,1,Aged 4 years and under,10991
+E08000022,North Tyneside,2,Aged 5 to 9 years,11939
+E08000022,North Tyneside,3,Aged 10 to 15 years,14525
+E08000022,North Tyneside,4,Aged 16 to 24 years,17507
+E08000022,North Tyneside,5,Aged 25 to 34 years,26067
+E08000022,North Tyneside,6,Aged 35 to 49 years,41588
+E08000022,North Tyneside,7,Aged 50 to 64 years,43453
+E08000022,North Tyneside,8,Aged 65 to 74 years,23972
+E08000022,North Tyneside,9,Aged 75 years and over,18925
+E08000023,South Tyneside,1,Aged 4 years and under,7823
+E08000023,South Tyneside,2,Aged 5 to 9 years,8468
+E08000023,South Tyneside,3,Aged 10 to 15 years,10193
+E08000023,South Tyneside,4,Aged 16 to 24 years,13206
+E08000023,South Tyneside,5,Aged 25 to 34 years,18527
+E08000023,South Tyneside,6,Aged 35 to 49 years,26588
+E08000023,South Tyneside,7,Aged 50 to 64 years,32133
+E08000023,South Tyneside,8,Aged 65 to 74 years,17149
+E08000023,South Tyneside,9,Aged 75 years and over,13689
+E08000024,Sunderland,1,Aged 4 years and under,13849
+E08000024,Sunderland,2,Aged 5 to 9 years,15239
+E08000024,Sunderland,3,Aged 10 to 15 years,19013
+E08000024,Sunderland,4,Aged 16 to 24 years,26807
+E08000024,Sunderland,5,Aged 25 to 34 years,35067
+E08000024,Sunderland,6,Aged 35 to 49 years,49538
+E08000024,Sunderland,7,Aged 50 to 64 years,58393
+E08000024,Sunderland,8,Aged 65 to 74 years,31599
+E08000024,Sunderland,9,Aged 75 years and over,24667
+E08000025,Birmingham,1,Aged 4 years and under,75023
+E08000025,Birmingham,2,Aged 5 to 9 years,81270
+E08000025,Birmingham,3,Aged 10 to 15 years,99003
+E08000025,Birmingham,4,Aged 16 to 24 years,163737
+E08000025,Birmingham,5,Aged 25 to 34 years,167439
+E08000025,Birmingham,6,Aged 35 to 49 years,222680
+E08000025,Birmingham,7,Aged 50 to 64 years,185278
+E08000025,Birmingham,8,Aged 65 to 74 years,79931
+E08000025,Birmingham,9,Aged 75 years and over,70558
+E08000026,Coventry,1,Aged 4 years and under,20442
+E08000026,Coventry,2,Aged 5 to 9 years,21965
+E08000026,Coventry,3,Aged 10 to 15 years,26044
+E08000026,Coventry,4,Aged 16 to 24 years,53054
+E08000026,Coventry,5,Aged 25 to 34 years,50030
+E08000026,Coventry,6,Aged 35 to 49 years,66103
+E08000026,Coventry,7,Aged 50 to 64 years,57373
+E08000026,Coventry,8,Aged 65 to 74 years,26050
+E08000026,Coventry,9,Aged 75 years and over,24263
+E08000027,Dudley,1,Aged 4 years and under,18176
+E08000027,Dudley,2,Aged 5 to 9 years,19775
+E08000027,Dudley,3,Aged 10 to 15 years,23049
+E08000027,Dudley,4,Aged 16 to 24 years,31041
+E08000027,Dudley,5,Aged 25 to 34 years,41807
+E08000027,Dudley,6,Aged 35 to 49 years,59241
+E08000027,Dudley,7,Aged 50 to 64 years,64341
+E08000027,Dudley,8,Aged 65 to 74 years,33820
+E08000027,Dudley,9,Aged 75 years and over,32238
+E08000028,Sandwell,1,Aged 4 years and under,22176
+E08000028,Sandwell,2,Aged 5 to 9 years,24566
+E08000028,Sandwell,3,Aged 10 to 15 years,29062
+E08000028,Sandwell,4,Aged 16 to 24 years,37666
+E08000028,Sandwell,5,Aged 25 to 34 years,47432
+E08000028,Sandwell,6,Aged 35 to 49 years,70069
+E08000028,Sandwell,7,Aged 50 to 64 years,61158
+E08000028,Sandwell,8,Aged 65 to 74 years,26514
+E08000028,Sandwell,9,Aged 75 years and over,23191
+E08000029,Solihull,1,Aged 4 years and under,11693
+E08000029,Solihull,2,Aged 5 to 9 years,13771
+E08000029,Solihull,3,Aged 10 to 15 years,16274
+E08000029,Solihull,4,Aged 16 to 24 years,19892
+E08000029,Solihull,5,Aged 25 to 34 years,25007
+E08000029,Solihull,6,Aged 35 to 49 years,39961
+E08000029,Solihull,7,Aged 50 to 64 years,44042
+E08000029,Solihull,8,Aged 65 to 74 years,23016
+E08000029,Solihull,9,Aged 75 years and over,22583
+E08000030,Walsall,1,Aged 4 years and under,18193
+E08000030,Walsall,2,Aged 5 to 9 years,19549
+E08000030,Walsall,3,Aged 10 to 15 years,23282
+E08000030,Walsall,4,Aged 16 to 24 years,29738
+E08000030,Walsall,5,Aged 25 to 34 years,37613
+E08000030,Walsall,6,Aged 35 to 49 years,53679
+E08000030,Walsall,7,Aged 50 to 64 years,52608
+E08000030,Walsall,8,Aged 65 to 74 years,25406
+E08000030,Walsall,9,Aged 75 years and over,24056
+E08000031,Wolverhampton,1,Aged 4 years and under,16325
+E08000031,Wolverhampton,2,Aged 5 to 9 years,17727
+E08000031,Wolverhampton,3,Aged 10 to 15 years,21233
+E08000031,Wolverhampton,4,Aged 16 to 24 years,27911
+E08000031,Wolverhampton,5,Aged 25 to 34 years,35957
+E08000031,Wolverhampton,6,Aged 35 to 49 years,52701
+E08000031,Wolverhampton,7,Aged 50 to 64 years,48592
+E08000031,Wolverhampton,8,Aged 65 to 74 years,22607
+E08000031,Wolverhampton,9,Aged 75 years and over,20675
+E08000032,Bradford,1,Aged 4 years and under,36096
+E08000032,Bradford,2,Aged 5 to 9 years,39556
+E08000032,Bradford,3,Aged 10 to 15 years,49185
+E08000032,Bradford,4,Aged 16 to 24 years,63079
+E08000032,Bradford,5,Aged 25 to 34 years,72559
+E08000032,Bradford,6,Aged 35 to 49 years,107702
+E08000032,Bradford,7,Aged 50 to 64 years,95233
+E08000032,Bradford,8,Aged 65 to 74 years,46496
+E08000032,Bradford,9,Aged 75 years and over,36505
+E08000033,Calderdale,1,Aged 4 years and under,11317
+E08000033,Calderdale,2,Aged 5 to 9 years,12803
+E08000033,Calderdale,3,Aged 10 to 15 years,15877
+E08000033,Calderdale,4,Aged 16 to 24 years,19163
+E08000033,Calderdale,5,Aged 25 to 34 years,24920
+E08000033,Calderdale,6,Aged 35 to 49 years,39472
+E08000033,Calderdale,7,Aged 50 to 64 years,43769
+E08000033,Calderdale,8,Aged 65 to 74 years,21959
+E08000033,Calderdale,9,Aged 75 years and over,17351
+E08000034,Kirklees,1,Aged 4 years and under,25144
+E08000034,Kirklees,2,Aged 5 to 9 years,27644
+E08000034,Kirklees,3,Aged 10 to 15 years,34153
+E08000034,Kirklees,4,Aged 16 to 24 years,47172
+E08000034,Kirklees,5,Aged 25 to 34 years,54869
+E08000034,Kirklees,6,Aged 35 to 49 years,83410
+E08000034,Kirklees,7,Aged 50 to 64 years,84011
+E08000034,Kirklees,8,Aged 65 to 74 years,42461
+E08000034,Kirklees,9,Aged 75 years and over,34352
+E08000035,Leeds,1,Aged 4 years and under,46800
+E08000035,Leeds,2,Aged 5 to 9 years,49614
+E08000035,Leeds,3,Aged 10 to 15 years,57068
+E08000035,Leeds,4,Aged 16 to 24 years,113371
+E08000035,Leeds,5,Aged 25 to 34 years,121267
+E08000035,Leeds,6,Aged 35 to 49 years,157374
+E08000035,Leeds,7,Aged 50 to 64 years,139693
+E08000035,Leeds,8,Aged 65 to 74 years,67998
+E08000035,Leeds,9,Aged 75 years and over,58768
+E08000036,Wakefield,1,Aged 4 years and under,20074
+E08000036,Wakefield,2,Aged 5 to 9 years,20994
+E08000036,Wakefield,3,Aged 10 to 15 years,24764
+E08000036,Wakefield,4,Aged 16 to 24 years,31934
+E08000036,Wakefield,5,Aged 25 to 34 years,48974
+E08000036,Wakefield,6,Aged 35 to 49 years,67141
+E08000036,Wakefield,7,Aged 50 to 64 years,72877
+E08000036,Wakefield,8,Aged 65 to 74 years,36926
+E08000036,Wakefield,9,Aged 75 years and over,29680
+E08000037,Gateshead,1,Aged 4 years and under,10053
+E08000037,Gateshead,2,Aged 5 to 9 years,11070
+E08000037,Gateshead,3,Aged 10 to 15 years,13279
+E08000037,Gateshead,4,Aged 16 to 24 years,18439
+E08000037,Gateshead,5,Aged 25 to 34 years,25873
+E08000037,Gateshead,6,Aged 35 to 49 years,36930
+E08000037,Gateshead,7,Aged 50 to 64 years,40734
+E08000037,Gateshead,8,Aged 65 to 74 years,21359
+E08000037,Gateshead,9,Aged 75 years and over,18414
+E09000001,City of London,1,Aged 4 years and under,213
+E09000001,City of London,2,Aged 5 to 9 years,159
+E09000001,City of London,3,Aged 10 to 15 years,206
+E09000001,City of London,4,Aged 16 to 24 years,1149
+E09000001,City of London,5,Aged 25 to 34 years,2215
+E09000001,City of London,6,Aged 35 to 49 years,1817
+E09000001,City of London,7,Aged 50 to 64 years,1617
+E09000001,City of London,8,Aged 65 to 74 years,714
+E09000001,City of London,9,Aged 75 years and over,495
+E09000002,Barking and Dagenham,1,Aged 4 years and under,17251
+E09000002,Barking and Dagenham,2,Aged 5 to 9 years,18331
+E09000002,Barking and Dagenham,3,Aged 10 to 15 years,21542
+E09000002,Barking and Dagenham,4,Aged 16 to 24 years,25052
+E09000002,Barking and Dagenham,5,Aged 25 to 34 years,33271
+E09000002,Barking and Dagenham,6,Aged 35 to 49 years,50643
+E09000002,Barking and Dagenham,7,Aged 50 to 64 years,33747
+E09000002,Barking and Dagenham,8,Aged 65 to 74 years,10724
+E09000002,Barking and Dagenham,9,Aged 75 years and over,8308
+E09000003,Barnet,1,Aged 4 years and under,24106
+E09000003,Barnet,2,Aged 5 to 9 years,25249
+E09000003,Barnet,3,Aged 10 to 15 years,30632
+E09000003,Barnet,4,Aged 16 to 24 years,39034
+E09000003,Barnet,5,Aged 25 to 34 years,58216
+E09000003,Barnet,6,Aged 35 to 49 years,88344
+E09000003,Barnet,7,Aged 50 to 64 years,67656
+E09000003,Barnet,8,Aged 65 to 74 years,29807
+E09000003,Barnet,9,Aged 75 years and over,26297
+E09000004,Bexley,1,Aged 4 years and under,15031
+E09000004,Bexley,2,Aged 5 to 9 years,16195
+E09000004,Bexley,3,Aged 10 to 15 years,19419
+E09000004,Bexley,4,Aged 16 to 24 years,24640
+E09000004,Bexley,5,Aged 25 to 34 years,31987
+E09000004,Bexley,6,Aged 35 to 49 years,50859
+E09000004,Bexley,7,Aged 50 to 64 years,47449
+E09000004,Bexley,8,Aged 65 to 74 years,21194
+E09000004,Bexley,9,Aged 75 years and over,19697
+E09000005,Brent,1,Aged 4 years and under,19970
+E09000005,Brent,2,Aged 5 to 9 years,19833
+E09000005,Brent,3,Aged 10 to 15 years,24870
+E09000005,Brent,4,Aged 16 to 24 years,41212
+E09000005,Brent,5,Aged 25 to 34 years,59160
+E09000005,Brent,6,Aged 35 to 49 years,76164
+E09000005,Brent,7,Aged 50 to 64 years,59052
+E09000005,Brent,8,Aged 65 to 74 years,21908
+E09000005,Brent,9,Aged 75 years and over,17647
+E09000006,Bromley,1,Aged 4 years and under,19491
+E09000006,Bromley,2,Aged 5 to 9 years,20627
+E09000006,Bromley,3,Aged 10 to 15 years,24785
+E09000006,Bromley,4,Aged 16 to 24 years,28030
+E09000006,Bromley,5,Aged 25 to 34 years,40750
+E09000006,Bromley,6,Aged 35 to 49 years,73534
+E09000006,Bromley,7,Aged 50 to 64 years,64533
+E09000006,Bromley,8,Aged 65 to 74 years,29856
+E09000006,Bromley,9,Aged 75 years and over,28388
+E09000007,Camden,1,Aged 4 years and under,10032
+E09000007,Camden,2,Aged 5 to 9 years,9873
+E09000007,Camden,3,Aged 10 to 15 years,12323
+E09000007,Camden,4,Aged 16 to 24 years,31973
+E09000007,Camden,5,Aged 25 to 34 years,42543
+E09000007,Camden,6,Aged 35 to 49 years,44408
+E09000007,Camden,7,Aged 50 to 64 years,34156
+E09000007,Camden,8,Aged 65 to 74 years,13664
+E09000007,Camden,9,Aged 75 years and over,11162
+E09000008,Croydon,1,Aged 4 years and under,25171
+E09000008,Croydon,2,Aged 5 to 9 years,24992
+E09000008,Croydon,3,Aged 10 to 15 years,30158
+E09000008,Croydon,4,Aged 16 to 24 years,39232
+E09000008,Croydon,5,Aged 25 to 34 years,59141
+E09000008,Croydon,6,Aged 35 to 49 years,85735
+E09000008,Croydon,7,Aged 50 to 64 years,73217
+E09000008,Croydon,8,Aged 65 to 74 years,29022
+E09000008,Croydon,9,Aged 75 years and over,24051
+E09000009,Ealing,1,Aged 4 years and under,21515
+E09000009,Ealing,2,Aged 5 to 9 years,22245
+E09000009,Ealing,3,Aged 10 to 15 years,27984
+E09000009,Ealing,4,Aged 16 to 24 years,40092
+E09000009,Ealing,5,Aged 25 to 34 years,59675
+E09000009,Ealing,6,Aged 35 to 49 years,86815
+E09000009,Ealing,7,Aged 50 to 64 years,64326
+E09000009,Ealing,8,Aged 65 to 74 years,24980
+E09000009,Ealing,9,Aged 75 years and over,19482
+E09000010,Enfield,1,Aged 4 years and under,21259
+E09000010,Enfield,2,Aged 5 to 9 years,22750
+E09000010,Enfield,3,Aged 10 to 15 years,28793
+E09000010,Enfield,4,Aged 16 to 24 years,35768
+E09000010,Enfield,5,Aged 25 to 34 years,44303
+E09000010,Enfield,6,Aged 35 to 49 years,71281
+E09000010,Enfield,7,Aged 50 to 64 years,60817
+E09000010,Enfield,8,Aged 65 to 74 years,23948
+E09000010,Enfield,9,Aged 75 years and over,21065
+E09000011,Greenwich,1,Aged 4 years and under,19027
+E09000011,Greenwich,2,Aged 5 to 9 years,18782
+E09000011,Greenwich,3,Aged 10 to 15 years,21512
+E09000011,Greenwich,4,Aged 16 to 24 years,30952
+E09000011,Greenwich,5,Aged 25 to 34 years,52584
+E09000011,Greenwich,6,Aged 35 to 49 years,68305
+E09000011,Greenwich,7,Aged 50 to 64 years,47681
+E09000011,Greenwich,8,Aged 65 to 74 years,17299
+E09000011,Greenwich,9,Aged 75 years and over,12926
+E09000012,Hackney,1,Aged 4 years and under,16135
+E09000012,Hackney,2,Aged 5 to 9 years,15159
+E09000012,Hackney,3,Aged 10 to 15 years,18384
+E09000012,Hackney,4,Aged 16 to 24 years,29752
+E09000012,Hackney,5,Aged 25 to 34 years,63483
+E09000012,Hackney,6,Aged 35 to 49 years,57711
+E09000012,Hackney,7,Aged 50 to 64 years,38020
+E09000012,Hackney,8,Aged 65 to 74 years,12474
+E09000012,Hackney,9,Aged 75 years and over,8031
+E09000013,Hammersmith and Fulham,1,Aged 4 years and under,9075
+E09000013,Hammersmith and Fulham,2,Aged 5 to 9 years,8824
+E09000013,Hammersmith and Fulham,3,Aged 10 to 15 years,10631
+E09000013,Hammersmith and Fulham,4,Aged 16 to 24 years,23541
+E09000013,Hammersmith and Fulham,5,Aged 25 to 34 years,42788
+E09000013,Hammersmith and Fulham,6,Aged 35 to 49 years,39822
+E09000013,Hammersmith and Fulham,7,Aged 50 to 64 years,29490
+E09000013,Hammersmith and Fulham,8,Aged 65 to 74 years,10717
+E09000013,Hammersmith and Fulham,9,Aged 75 years and over,8269
+E09000014,Haringey,1,Aged 4 years and under,14932
+E09000014,Haringey,2,Aged 5 to 9 years,14743
+E09000014,Haringey,3,Aged 10 to 15 years,18562
+E09000014,Haringey,4,Aged 16 to 24 years,27943
+E09000014,Haringey,5,Aged 25 to 34 years,49901
+E09000014,Haringey,6,Aged 35 to 49 years,63930
+E09000014,Haringey,7,Aged 50 to 64 years,46514
+E09000014,Haringey,8,Aged 65 to 74 years,15969
+E09000014,Haringey,9,Aged 75 years and over,11743
+E09000015,Harrow,1,Aged 4 years and under,15699
+E09000015,Harrow,2,Aged 5 to 9 years,16133
+E09000015,Harrow,3,Aged 10 to 15 years,19750
+E09000015,Harrow,4,Aged 16 to 24 years,26905
+E09000015,Harrow,5,Aged 25 to 34 years,38925
+E09000015,Harrow,6,Aged 35 to 49 years,58063
+E09000015,Harrow,7,Aged 50 to 64 years,45549
+E09000015,Harrow,8,Aged 65 to 74 years,21410
+E09000015,Harrow,9,Aged 75 years and over,18769
+E09000016,Havering,1,Aged 4 years and under,16491
+E09000016,Havering,2,Aged 5 to 9 years,16862
+E09000016,Havering,3,Aged 10 to 15 years,18969
+E09000016,Havering,4,Aged 16 to 24 years,25467
+E09000016,Havering,5,Aged 25 to 34 years,36230
+E09000016,Havering,6,Aged 35 to 49 years,52842
+E09000016,Havering,7,Aged 50 to 64 years,49080
+E09000016,Havering,8,Aged 65 to 74 years,23993
+E09000016,Havering,9,Aged 75 years and over,22118
+E09000017,Hillingdon,1,Aged 4 years and under,19881
+E09000017,Hillingdon,2,Aged 5 to 9 years,20469
+E09000017,Hillingdon,3,Aged 10 to 15 years,23681
+E09000017,Hillingdon,4,Aged 16 to 24 years,34682
+E09000017,Hillingdon,5,Aged 25 to 34 years,44450
+E09000017,Hillingdon,6,Aged 35 to 49 years,68671
+E09000017,Hillingdon,7,Aged 50 to 64 years,52902
+E09000017,Hillingdon,8,Aged 65 to 74 years,22110
+E09000017,Hillingdon,9,Aged 75 years and over,19063
+E09000018,Hounslow,1,Aged 4 years and under,18221
+E09000018,Hounslow,2,Aged 5 to 9 years,19107
+E09000018,Hounslow,3,Aged 10 to 15 years,22172
+E09000018,Hounslow,4,Aged 16 to 24 years,29416
+E09000018,Hounslow,5,Aged 25 to 34 years,45718
+E09000018,Hounslow,6,Aged 35 to 49 years,70964
+E09000018,Hounslow,7,Aged 50 to 64 years,48634
+E09000018,Hounslow,8,Aged 65 to 74 years,19470
+E09000018,Hounslow,9,Aged 75 years and over,14479
+E09000019,Islington,1,Aged 4 years and under,11211
+E09000019,Islington,2,Aged 5 to 9 years,9975
+E09000019,Islington,3,Aged 10 to 15 years,11777
+E09000019,Islington,4,Aged 16 to 24 years,27291
+E09000019,Islington,5,Aged 25 to 34 years,56063
+E09000019,Islington,6,Aged 35 to 49 years,46411
+E09000019,Islington,7,Aged 50 to 64 years,33540
+E09000019,Islington,8,Aged 65 to 74 years,11827
+E09000019,Islington,9,Aged 75 years and over,8494
+E09000020,Kensington and Chelsea,1,Aged 4 years and under,6171
+E09000020,Kensington and Chelsea,2,Aged 5 to 9 years,6364
+E09000020,Kensington and Chelsea,3,Aged 10 to 15 years,7751
+E09000020,Kensington and Chelsea,4,Aged 16 to 24 years,17642
+E09000020,Kensington and Chelsea,5,Aged 25 to 34 years,25142
+E09000020,Kensington and Chelsea,6,Aged 35 to 49 years,30355
+E09000020,Kensington and Chelsea,7,Aged 50 to 64 years,29350
+E09000020,Kensington and Chelsea,8,Aged 65 to 74 years,11324
+E09000020,Kensington and Chelsea,9,Aged 75 years and over,9276
+E09000021,Kingston upon Thames,1,Aged 4 years and under,9559
+E09000021,Kingston upon Thames,2,Aged 5 to 9 years,10512
+E09000021,Kingston upon Thames,3,Aged 10 to 15 years,12528
+E09000021,Kingston upon Thames,4,Aged 16 to 24 years,18663
+E09000021,Kingston upon Thames,5,Aged 25 to 34 years,23271
+E09000021,Kingston upon Thames,6,Aged 35 to 49 years,39162
+E09000021,Kingston upon Thames,7,Aged 50 to 64 years,30045
+E09000021,Kingston upon Thames,8,Aged 65 to 74 years,13328
+E09000021,Kingston upon Thames,9,Aged 75 years and over,10996
+E09000022,Lambeth,1,Aged 4 years and under,15265
+E09000022,Lambeth,2,Aged 5 to 9 years,14940
+E09000022,Lambeth,3,Aged 10 to 15 years,18505
+E09000022,Lambeth,4,Aged 16 to 24 years,38669
+E09000022,Lambeth,5,Aged 25 to 34 years,81898
+E09000022,Lambeth,6,Aged 35 to 49 years,69291
+E09000022,Lambeth,7,Aged 50 to 64 years,51826
+E09000022,Lambeth,8,Aged 65 to 74 years,15836
+E09000022,Lambeth,9,Aged 75 years and over,11424
+E09000023,Lewisham,1,Aged 4 years and under,19127
+E09000023,Lewisham,2,Aged 5 to 9 years,18172
+E09000023,Lewisham,3,Aged 10 to 15 years,20843
+E09000023,Lewisham,4,Aged 16 to 24 years,31217
+E09000023,Lewisham,5,Aged 25 to 34 years,58431
+E09000023,Lewisham,6,Aged 35 to 49 years,72036
+E09000023,Lewisham,7,Aged 50 to 64 years,52083
+E09000023,Lewisham,8,Aged 65 to 74 years,16092
+E09000023,Lewisham,9,Aged 75 years and over,12552
+E09000024,Merton,1,Aged 4 years and under,13532
+E09000024,Merton,2,Aged 5 to 9 years,13300
+E09000024,Merton,3,Aged 10 to 15 years,15582
+E09000024,Merton,4,Aged 16 to 24 years,19431
+E09000024,Merton,5,Aged 25 to 34 years,36354
+E09000024,Merton,6,Aged 35 to 49 years,52598
+E09000024,Merton,7,Aged 50 to 64 years,37318
+E09000024,Merton,8,Aged 65 to 74 years,14983
+E09000024,Merton,9,Aged 75 years and over,12088
+E09000025,Newham,1,Aged 4 years and under,23854
+E09000025,Newham,2,Aged 5 to 9 years,23326
+E09000025,Newham,3,Aged 10 to 15 years,27683
+E09000025,Newham,4,Aged 16 to 24 years,46051
+E09000025,Newham,5,Aged 25 to 34 years,72734
+E09000025,Newham,6,Aged 35 to 49 years,82692
+E09000025,Newham,7,Aged 50 to 64 years,49530
+E09000025,Newham,8,Aged 65 to 74 years,15398
+E09000025,Newham,9,Aged 75 years and over,9768
+E09000026,Redbridge,1,Aged 4 years and under,21194
+E09000026,Redbridge,2,Aged 5 to 9 years,21733
+E09000026,Redbridge,3,Aged 10 to 15 years,25316
+E09000026,Redbridge,4,Aged 16 to 24 years,34392
+E09000026,Redbridge,5,Aged 25 to 34 years,46639
+E09000026,Redbridge,6,Aged 35 to 49 years,72126
+E09000026,Redbridge,7,Aged 50 to 64 years,50928
+E09000026,Redbridge,8,Aged 65 to 74 years,20909
+E09000026,Redbridge,9,Aged 75 years and over,17023
+E09000027,Richmond upon Thames,1,Aged 4 years and under,11103
+E09000027,Richmond upon Thames,2,Aged 5 to 9 years,12812
+E09000027,Richmond upon Thames,3,Aged 10 to 15 years,15529
+E09000027,Richmond upon Thames,4,Aged 16 to 24 years,16079
+E09000027,Richmond upon Thames,5,Aged 25 to 34 years,22051
+E09000027,Richmond upon Thames,6,Aged 35 to 49 years,46948
+E09000027,Richmond upon Thames,7,Aged 50 to 64 years,39309
+E09000027,Richmond upon Thames,8,Aged 65 to 74 years,17086
+E09000027,Richmond upon Thames,9,Aged 75 years and over,14361
+E09000028,Southwark,1,Aged 4 years and under,16362
+E09000028,Southwark,2,Aged 5 to 9 years,15893
+E09000028,Southwark,3,Aged 10 to 15 years,19246
+E09000028,Southwark,4,Aged 16 to 24 years,38653
+E09000028,Southwark,5,Aged 25 to 34 years,73224
+E09000028,Southwark,6,Aged 35 to 49 years,68304
+E09000028,Southwark,7,Aged 50 to 64 years,50273
+E09000028,Southwark,8,Aged 65 to 74 years,15069
+E09000028,Southwark,9,Aged 75 years and over,10613
+E09000029,Sutton,1,Aged 4 years and under,12796
+E09000029,Sutton,2,Aged 5 to 9 years,14250
+E09000029,Sutton,3,Aged 10 to 15 years,16936
+E09000029,Sutton,4,Aged 16 to 24 years,18717
+E09000029,Sutton,5,Aged 25 to 34 years,27200
+E09000029,Sutton,6,Aged 35 to 49 years,49035
+E09000029,Sutton,7,Aged 50 to 64 years,38961
+E09000029,Sutton,8,Aged 65 to 74 years,16969
+E09000029,Sutton,9,Aged 75 years and over,14772
+E09000030,Tower Hamlets,1,Aged 4 years and under,19090
+E09000030,Tower Hamlets,2,Aged 5 to 9 years,17656
+E09000030,Tower Hamlets,3,Aged 10 to 15 years,20675
+E09000030,Tower Hamlets,4,Aged 16 to 24 years,47075
+E09000030,Tower Hamlets,5,Aged 25 to 34 years,85181
+E09000030,Tower Hamlets,6,Aged 35 to 49 years,69956
+E09000030,Tower Hamlets,7,Aged 50 to 64 years,33199
+E09000030,Tower Hamlets,8,Aged 65 to 74 years,10380
+E09000030,Tower Hamlets,9,Aged 75 years and over,7092
+E09000031,Waltham Forest,1,Aged 4 years and under,18985
+E09000031,Waltham Forest,2,Aged 5 to 9 years,17441
+E09000031,Waltham Forest,3,Aged 10 to 15 years,19818
+E09000031,Waltham Forest,4,Aged 16 to 24 years,27508
+E09000031,Waltham Forest,5,Aged 25 to 34 years,51078
+E09000031,Waltham Forest,6,Aged 35 to 49 years,69532
+E09000031,Waltham Forest,7,Aged 50 to 64 years,45664
+E09000031,Waltham Forest,8,Aged 65 to 74 years,15998
+E09000031,Waltham Forest,9,Aged 75 years and over,12400
+E09000032,Wandsworth,1,Aged 4 years and under,18704
+E09000032,Wandsworth,2,Aged 5 to 9 years,16908
+E09000032,Wandsworth,3,Aged 10 to 15 years,18336
+E09000032,Wandsworth,4,Aged 16 to 24 years,34267
+E09000032,Wandsworth,5,Aged 25 to 34 years,86123
+E09000032,Wandsworth,6,Aged 35 to 49 years,74696
+E09000032,Wandsworth,7,Aged 50 to 64 years,47138
+E09000032,Wandsworth,8,Aged 65 to 74 years,17381
+E09000032,Wandsworth,9,Aged 75 years and over,13952
+E09000033,Westminster,1,Aged 4 years and under,8502
+E09000033,Westminster,2,Aged 5 to 9 years,7877
+E09000033,Westminster,3,Aged 10 to 15 years,10390
+E09000033,Westminster,4,Aged 16 to 24 years,28225
+E09000033,Westminster,5,Aged 25 to 34 years,44166
+E09000033,Westminster,6,Aged 35 to 49 years,43908
+E09000033,Westminster,7,Aged 50 to 64 years,36389
+E09000033,Westminster,8,Aged 65 to 74 years,13646
+E09000033,Westminster,9,Aged 75 years and over,11135
+E10000003,Cambridgeshire,1,Aged 4 years and under,34470
+E10000003,Cambridgeshire,2,Aged 5 to 9 years,38723
+E10000003,Cambridgeshire,3,Aged 10 to 15 years,46008
+E10000003,Cambridgeshire,4,Aged 16 to 24 years,75216
+E10000003,Cambridgeshire,5,Aged 25 to 34 years,93959
+E10000003,Cambridgeshire,6,Aged 35 to 49 years,134424
+E10000003,Cambridgeshire,7,Aged 50 to 64 years,129473
+E10000003,Cambridgeshire,8,Aged 65 to 74 years,67276
+E10000003,Cambridgeshire,9,Aged 75 years and over,59301
+E10000006,Cumbria,1,Aged 4 years and under,22404
+E10000006,Cumbria,2,Aged 5 to 9 years,25297
+E10000006,Cumbria,3,Aged 10 to 15 years,32110
+E10000006,Cumbria,4,Aged 16 to 24 years,43041
+E10000006,Cumbria,5,Aged 25 to 34 years,56172
+E10000006,Cumbria,6,Aged 35 to 49 years,84698
+E10000006,Cumbria,7,Aged 50 to 64 years,114600
+E10000006,Cumbria,8,Aged 65 to 74 years,65657
+E10000006,Cumbria,9,Aged 75 years and over,55868
+E10000007,Derbyshire,1,Aged 4 years and under,38314
+E10000007,Derbyshire,2,Aged 5 to 9 years,43124
+E10000007,Derbyshire,3,Aged 10 to 15 years,53378
+E10000007,Derbyshire,4,Aged 16 to 24 years,68444
+E10000007,Derbyshire,5,Aged 25 to 34 years,94700
+E10000007,Derbyshire,6,Aged 35 to 49 years,143537
+E10000007,Derbyshire,7,Aged 50 to 64 years,177452
+E10000007,Derbyshire,8,Aged 65 to 74 years,95365
+E10000007,Derbyshire,9,Aged 75 years and over,80322
+E10000008,Devon,1,Aged 4 years and under,35343
+E10000008,Devon,2,Aged 5 to 9 years,41294
+E10000008,Devon,3,Aged 10 to 15 years,51534
+E10000008,Devon,4,Aged 16 to 24 years,80700
+E10000008,Devon,5,Aged 25 to 34 years,84570
+E10000008,Devon,6,Aged 35 to 49 years,134033
+E10000008,Devon,7,Aged 50 to 64 years,174768
+E10000008,Devon,8,Aged 65 to 74 years,109049
+E10000008,Devon,9,Aged 75 years and over,100349
+E10000011,East Sussex,1,Aged 4 years and under,24993
+E10000011,East Sussex,2,Aged 5 to 9 years,28700
+E10000011,East Sussex,3,Aged 10 to 15 years,36515
+E10000011,East Sussex,4,Aged 16 to 24 years,45944
+E10000011,East Sussex,5,Aged 25 to 34 years,56061
+E10000011,East Sussex,6,Aged 35 to 49 years,92169
+E10000011,East Sussex,7,Aged 50 to 64 years,118986
+E10000011,East Sussex,8,Aged 65 to 74 years,73124
+E10000011,East Sussex,9,Aged 75 years and over,69354
+E10000012,Essex,1,Aged 4 years and under,83141
+E10000012,Essex,2,Aged 5 to 9 years,88984
+E10000012,Essex,3,Aged 10 to 15 years,107221
+E10000012,Essex,4,Aged 16 to 24 years,140789
+E10000012,Essex,5,Aged 25 to 34 years,185808
+E10000012,Essex,6,Aged 35 to 49 years,284947
+E10000012,Essex,7,Aged 50 to 64 years,302652
+E10000012,Essex,8,Aged 65 to 74 years,163257
+E10000012,Essex,9,Aged 75 years and over,146722
+E10000013,Gloucestershire,1,Aged 4 years and under,32265
+E10000013,Gloucestershire,2,Aged 5 to 9 years,36188
+E10000013,Gloucestershire,3,Aged 10 to 15 years,44338
+E10000013,Gloucestershire,4,Aged 16 to 24 years,61164
+E10000013,Gloucestershire,5,Aged 25 to 34 years,76973
+E10000013,Gloucestershire,6,Aged 35 to 49 years,118582
+E10000013,Gloucestershire,7,Aged 50 to 64 years,135751
+E10000013,Gloucestershire,8,Aged 65 to 74 years,73422
+E10000013,Gloucestershire,9,Aged 75 years and over,66393
+E10000014,Hampshire,1,Aged 4 years and under,71253
+E10000014,Hampshire,2,Aged 5 to 9 years,80951
+E10000014,Hampshire,3,Aged 10 to 15 years,97568
+E10000014,Hampshire,4,Aged 16 to 24 years,125395
+E10000014,Hampshire,5,Aged 25 to 34 years,165280
+E10000014,Hampshire,6,Aged 35 to 49 years,263035
+E10000014,Hampshire,7,Aged 50 to 64 years,293283
+E10000014,Hampshire,8,Aged 65 to 74 years,157064
+E10000014,Hampshire,9,Aged 75 years and over,147070
+E10000015,Hertfordshire,1,Aged 4 years and under,70159
+E10000015,Hertfordshire,2,Aged 5 to 9 years,76454
+E10000015,Hertfordshire,3,Aged 10 to 15 years,93104
+E10000015,Hertfordshire,4,Aged 16 to 24 years,113395
+E10000015,Hertfordshire,5,Aged 25 to 34 years,153155
+E10000015,Hertfordshire,6,Aged 35 to 49 years,254671
+E10000015,Hertfordshire,7,Aged 50 to 64 years,233592
+E10000015,Hertfordshire,8,Aged 65 to 74 years,106418
+E10000015,Hertfordshire,9,Aged 75 years and over,97850
+E10000016,Kent,1,Aged 4 years and under,87286
+E10000016,Kent,2,Aged 5 to 9 years,95259
+E10000016,Kent,3,Aged 10 to 15 years,116958
+E10000016,Kent,4,Aged 16 to 24 years,152965
+E10000016,Kent,5,Aged 25 to 34 years,191291
+E10000016,Kent,6,Aged 35 to 49 years,298364
+E10000016,Kent,7,Aged 50 to 64 years,314618
+E10000016,Kent,8,Aged 65 to 74 years,169272
+E10000016,Kent,9,Aged 75 years and over,150056
+E10000017,Lancashire,1,Aged 4 years and under,63725
+E10000017,Lancashire,2,Aged 5 to 9 years,70949
+E10000017,Lancashire,3,Aged 10 to 15 years,87757
+E10000017,Lancashire,4,Aged 16 to 24 years,132140
+E10000017,Lancashire,5,Aged 25 to 34 years,147985
+E10000017,Lancashire,6,Aged 35 to 49 years,221477
+E10000017,Lancashire,7,Aged 50 to 64 years,255001
+E10000017,Lancashire,8,Aged 65 to 74 years,138550
+E10000017,Lancashire,9,Aged 75 years and over,117768
+E10000018,Leicestershire,1,Aged 4 years and under,36021
+E10000018,Leicestershire,2,Aged 5 to 9 years,40012
+E10000018,Leicestershire,3,Aged 10 to 15 years,48901
+E10000018,Leicestershire,4,Aged 16 to 24 years,75483
+E10000018,Leicestershire,5,Aged 25 to 34 years,85196
+E10000018,Leicestershire,6,Aged 35 to 49 years,132106
+E10000018,Leicestershire,7,Aged 50 to 64 years,146569
+E10000018,Leicestershire,8,Aged 65 to 74 years,79443
+E10000018,Leicestershire,9,Aged 75 years and over,68636
+E10000019,Lincolnshire,1,Aged 4 years and under,35818
+E10000019,Lincolnshire,2,Aged 5 to 9 years,41243
+E10000019,Lincolnshire,3,Aged 10 to 15 years,51094
+E10000019,Lincolnshire,4,Aged 16 to 24 years,76566
+E10000019,Lincolnshire,5,Aged 25 to 34 years,88319
+E10000019,Lincolnshire,6,Aged 35 to 49 years,131652
+E10000019,Lincolnshire,7,Aged 50 to 64 years,163519
+E10000019,Lincolnshire,8,Aged 65 to 74 years,95935
+E10000019,Lincolnshire,9,Aged 75 years and over,84219
+E10000020,Norfolk,1,Aged 4 years and under,42518
+E10000020,Norfolk,2,Aged 5 to 9 years,48368
+E10000020,Norfolk,3,Aged 10 to 15 years,58138
+E10000020,Norfolk,4,Aged 16 to 24 years,88594
+E10000020,Norfolk,5,Aged 25 to 34 years,107825
+E10000020,Norfolk,6,Aged 35 to 49 years,158591
+E10000020,Norfolk,7,Aged 50 to 64 years,188324
+E10000020,Norfolk,8,Aged 65 to 74 years,116400
+E10000020,Norfolk,9,Aged 75 years and over,107362
+E10000023,North Yorkshire,1,Aged 4 years and under,27741
+E10000023,North Yorkshire,2,Aged 5 to 9 years,31233
+E10000023,North Yorkshire,3,Aged 10 to 15 years,40337
+E10000023,North Yorkshire,4,Aged 16 to 24 years,51524
+E10000023,North Yorkshire,5,Aged 25 to 34 years,65066
+E10000023,North Yorkshire,6,Aged 35 to 49 years,104376
+E10000023,North Yorkshire,7,Aged 50 to 64 years,141386
+E10000023,North Yorkshire,8,Aged 65 to 74 years,82186
+E10000023,North Yorkshire,9,Aged 75 years and over,71642
+E10000024,Nottinghamshire,1,Aged 4 years and under,41890
+E10000024,Nottinghamshire,2,Aged 5 to 9 years,47172
+E10000024,Nottinghamshire,3,Aged 10 to 15 years,56689
+E10000024,Nottinghamshire,4,Aged 16 to 24 years,74605
+E10000024,Nottinghamshire,5,Aged 25 to 34 years,102396
+E10000024,Nottinghamshire,6,Aged 35 to 49 years,152900
+E10000024,Nottinghamshire,7,Aged 50 to 64 years,173982
+E10000024,Nottinghamshire,8,Aged 65 to 74 years,93559
+E10000024,Nottinghamshire,9,Aged 75 years and over,81629
+E10000025,Oxfordshire,1,Aged 4 years and under,37991
+E10000025,Oxfordshire,2,Aged 5 to 9 years,41006
+E10000025,Oxfordshire,3,Aged 10 to 15 years,51261
+E10000025,Oxfordshire,4,Aged 16 to 24 years,84669
+E10000025,Oxfordshire,5,Aged 25 to 34 years,100796
+E10000025,Oxfordshire,6,Aged 35 to 49 years,141780
+E10000025,Oxfordshire,7,Aged 50 to 64 years,137993
+E10000025,Oxfordshire,8,Aged 65 to 74 years,67596
+E10000025,Oxfordshire,9,Aged 75 years and over,62199
+E10000027,Somerset,1,Aged 4 years and under,27048
+E10000027,Somerset,2,Aged 5 to 9 years,30531
+E10000027,Somerset,3,Aged 10 to 15 years,39029
+E10000027,Somerset,4,Aged 16 to 24 years,49394
+E10000027,Somerset,5,Aged 25 to 34 years,63591
+E10000027,Somerset,6,Aged 35 to 49 years,96744
+E10000027,Somerset,7,Aged 50 to 64 years,123314
+E10000027,Somerset,8,Aged 65 to 74 years,74728
+E10000027,Somerset,9,Aged 75 years and over,67169
+E10000028,Staffordshire,1,Aged 4 years and under,43709
+E10000028,Staffordshire,2,Aged 5 to 9 years,47706
+E10000028,Staffordshire,3,Aged 10 to 15 years,58291
+E10000028,Staffordshire,4,Aged 16 to 24 years,81590
+E10000028,Staffordshire,5,Aged 25 to 34 years,105775
+E10000028,Staffordshire,6,Aged 35 to 49 years,157666
+E10000028,Staffordshire,7,Aged 50 to 64 years,187232
+E10000028,Staffordshire,8,Aged 65 to 74 years,102717
+E10000028,Staffordshire,9,Aged 75 years and over,91419
+E10000029,Suffolk,1,Aged 4 years and under,37261
+E10000029,Suffolk,2,Aged 5 to 9 years,41805
+E10000029,Suffolk,3,Aged 10 to 15 years,51263
+E10000029,Suffolk,4,Aged 16 to 24 years,68645
+E10000029,Suffolk,5,Aged 25 to 34 years,90962
+E10000029,Suffolk,6,Aged 35 to 49 years,134425
+E10000029,Suffolk,7,Aged 50 to 64 years,157132
+E10000029,Suffolk,8,Aged 65 to 74 years,93580
+E10000029,Suffolk,9,Aged 75 years and over,85618
+E10000030,Surrey,1,Aged 4 years and under,65635
+E10000030,Surrey,2,Aged 5 to 9 years,74063
+E10000030,Surrey,3,Aged 10 to 15 years,90897
+E10000030,Surrey,4,Aged 16 to 24 years,118934
+E10000030,Surrey,5,Aged 25 to 34 years,135537
+E10000030,Surrey,6,Aged 35 to 49 years,250379
+E10000030,Surrey,7,Aged 50 to 64 years,240472
+E10000030,Surrey,8,Aged 65 to 74 years,115129
+E10000030,Surrey,9,Aged 75 years and over,112061
+E10000031,Warwickshire,1,Aged 4 years and under,31010
+E10000031,Warwickshire,2,Aged 5 to 9 years,34016
+E10000031,Warwickshire,3,Aged 10 to 15 years,41183
+E10000031,Warwickshire,4,Aged 16 to 24 years,57336
+E10000031,Warwickshire,5,Aged 25 to 34 years,76091
+E10000031,Warwickshire,6,Aged 35 to 49 years,113320
+E10000031,Warwickshire,7,Aged 50 to 64 years,121202
+E10000031,Warwickshire,8,Aged 65 to 74 years,63593
+E10000031,Warwickshire,9,Aged 75 years and over,59022
+E10000032,West Sussex,1,Aged 4 years and under,44525
+E10000032,West Sussex,2,Aged 5 to 9 years,49867
+E10000032,West Sussex,3,Aged 10 to 15 years,61164
+E10000032,West Sussex,4,Aged 16 to 24 years,76345
+E10000032,West Sussex,5,Aged 25 to 34 years,101883
+E10000032,West Sussex,6,Aged 35 to 49 years,166681
+E10000032,West Sussex,7,Aged 50 to 64 years,180821
+E10000032,West Sussex,8,Aged 65 to 74 years,102300
+E10000032,West Sussex,9,Aged 75 years and over,99090
+E10000034,Worcestershire,1,Aged 4 years and under,29604
+E10000034,Worcestershire,2,Aged 5 to 9 years,33340
+E10000034,Worcestershire,3,Aged 10 to 15 years,41373
+E10000034,Worcestershire,4,Aged 16 to 24 years,55046
+E10000034,Worcestershire,5,Aged 25 to 34 years,70026
+E10000034,Worcestershire,6,Aged 35 to 49 years,109006
+E10000034,Worcestershire,7,Aged 50 to 64 years,127247
+E10000034,Worcestershire,8,Aged 65 to 74 years,73140
+E10000034,Worcestershire,9,Aged 75 years and over,64894
